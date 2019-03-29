@@ -1,5 +1,5 @@
 # demo-cucumber
-Create a directory
+Create a directory 
 Say demo
 
 npm init --yes #package.json will get created automatically

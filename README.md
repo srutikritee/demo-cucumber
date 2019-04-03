@@ -35,3 +35,6 @@ npm run cucumber.js ./features -r ./steps
 
 # To run the script through command line
 npm run cucumber # cucmber refer to the name given under script.
+
+
+test
